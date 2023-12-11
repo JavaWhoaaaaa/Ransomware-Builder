@@ -19,6 +19,10 @@
 
 - 🔒 FUD 🔒
 
+- 🔒 AV Killer 🔒
+
+- 🔒 RansomwareAV Killer 🔒
+
 - 🔒 Customizable Message for a Victim 🔒
 
 # 💻 How to use 💻
